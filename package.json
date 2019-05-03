@@ -2,7 +2,7 @@
   "name": "pixabay-image",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://atul000.github.io/pixabay-image",
+  "homepage": "https://atul000.github.io/React-PixabayApi",
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.1.4",
     "axios": "^0.18.0",
@@ -17,8 +17,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d web",
+    "deploy": "npm run build&&gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
