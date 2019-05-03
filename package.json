@@ -2,7 +2,7 @@
   "name": "pixabay-image",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://atul000.github.io/pictures",
+  "homepage": "https://atul000.github.io/pixabay-image",
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.1.4",
     "axios": "^0.18.0",
