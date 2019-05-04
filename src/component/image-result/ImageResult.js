@@ -10,7 +10,7 @@ import FlatButton from 'material-ui/FlatButton';
  class ImageResult extends Component {
 
     state = {
-        oprn: false,
+        open: false,
         currentImg:''
     }
 
