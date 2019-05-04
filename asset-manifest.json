@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-PixabayApi/static/css/main.608bd093.chunk.css",
-    "main.js": "/React-PixabayApi/static/js/main.949d6ad6.chunk.js",
-    "main.js.map": "/React-PixabayApi/static/js/main.949d6ad6.chunk.js.map",
+    "main.js": "/React-PixabayApi/static/js/main.bd47c956.chunk.js",
+    "main.js.map": "/React-PixabayApi/static/js/main.bd47c956.chunk.js.map",
     "runtime~main.js": "/React-PixabayApi/static/js/runtime~main.580d29dd.js",
     "runtime~main.js.map": "/React-PixabayApi/static/js/runtime~main.580d29dd.js.map",
     "static/js/2.632be006.chunk.js": "/React-PixabayApi/static/js/2.632be006.chunk.js",
     "static/js/2.632be006.chunk.js.map": "/React-PixabayApi/static/js/2.632be006.chunk.js.map",
     "index.html": "/React-PixabayApi/index.html",
-    "precache-manifest.adf006bcd1decff223e7ff3a67150aa5.js": "/React-PixabayApi/precache-manifest.adf006bcd1decff223e7ff3a67150aa5.js",
+    "precache-manifest.61893f58fd7f6b5a888286a97fb3f798.js": "/React-PixabayApi/precache-manifest.61893f58fd7f6b5a888286a97fb3f798.js",
     "service-worker.js": "/React-PixabayApi/service-worker.js",
     "static/css/main.608bd093.chunk.css.map": "/React-PixabayApi/static/css/main.608bd093.chunk.css.map"
   }

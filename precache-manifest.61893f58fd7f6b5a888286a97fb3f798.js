@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df4f2541c2bdf9dc4da9a68c07c88630",
+    "revision": "cd2e90556b48e9c2c3c26d1d9c87fbec",
     "url": "/React-PixabayApi/index.html"
   },
   {
-    "revision": "d80caba0d4f666987235",
+    "revision": "2714b894a810a1093428",
     "url": "/React-PixabayApi/static/css/main.608bd093.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-PixabayApi/static/js/2.632be006.chunk.js"
   },
   {
-    "revision": "d80caba0d4f666987235",
-    "url": "/React-PixabayApi/static/js/main.949d6ad6.chunk.js"
+    "revision": "2714b894a810a1093428",
+    "url": "/React-PixabayApi/static/js/main.bd47c956.chunk.js"
   },
   {
     "revision": "0c727bca37d07b23f890",
